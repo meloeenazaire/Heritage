@@ -1,0 +1,5 @@
+C:\VSProjetNazaire\EXO1Hypothese1\Exo1Hypothese2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VSProjetNazaire\EXO1Hypothese1\Exo1Hypothese2\bin\Debug\Exo1Hypothese2.exe
+C:\VSProjetNazaire\EXO1Hypothese1\Exo1Hypothese2\bin\Debug\Exo1Hypothese2.pdb
+C:\VSProjetNazaire\EXO1Hypothese1\Exo1Hypothese2\obj\x86\Debug\Exo1Hypothese2.exe
+C:\VSProjetNazaire\EXO1Hypothese1\Exo1Hypothese2\obj\x86\Debug\Exo1Hypothese2.pdb
