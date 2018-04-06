@@ -4,7 +4,8 @@ Ce TP aborde la notion d'héritage, qui consiste à ce qu'une classe puisse hér
 
 ##### Pour qu'une classe hérite d'une autre :
 *class Lion:Félin*
+
 La classe *Lion* hérite de la classe *Félin*
 
-
+![Captureheritage.png](https://github.com/meloeenazaire/Heritage/blob/master/Captureheritage.PNG)
 
